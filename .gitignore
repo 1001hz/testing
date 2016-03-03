@@ -1,0 +1,19 @@
+# Vendor files #
+bower_components/
+node_modules/
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea
+/.ftpsync_settings
+/nbproject/private/
+/app/css/qualtrix.html
+/notes.txt

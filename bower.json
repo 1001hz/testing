@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "0.0.1",
+  "authors": [
+    "1001hz <1001hz@gmail.com>"
+  ],
+  "description": "Angular v1 Testing Examples",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3.15",
+    "jquery": "2.1.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.3.15"
+  }
+}
